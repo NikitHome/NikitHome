@@ -8,7 +8,7 @@ I do both programming and 3D. Perhaps these are my favorite activities (not coun
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [mishanikita261202@mail.ru](mailto:mishanikita261202@mail.ru)
-* 🧠  I'm learning Backend and 3D design
+* 🧠  I'm learning Backend and 2D/3D design
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/NikitHome" target="_blank" rel="noreferrer"><img
